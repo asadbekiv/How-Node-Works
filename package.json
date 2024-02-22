@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "event-loops.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon streams.js"
+  },
+  "author": "ASadbek",
+  "license": "ISC",
+  "description": ""
+}
